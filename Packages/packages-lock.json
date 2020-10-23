@@ -8,7 +8,7 @@
       "hash": "b334a18b52666467a9acb67c64c3595099143f65"
     },
     "com.ks.beataim.modding.halloween.dependencies": {
-      "version": "file:BeatAimHalloweenDependencies",
+      "version": "file:BeatAim-Halloween-Dependencies",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
