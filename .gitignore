@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/ADG_Textures*
+Assets/cemetery halloween set*
+Assets/Ludiq*
+Assets/Samples/Terrain Tools*
