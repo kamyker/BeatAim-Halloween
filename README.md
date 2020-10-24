@@ -1,4 +1,6 @@
-# BeatAim-Halloween
+# Beat Aim Halloween
+
+![Beat Aim Halloween](Docs~/prev.gif)
 
 0. Get Unity 2020.1.8 https://unity3d.com/get-unity/download
 1. Download and unzip this project (or git clone)
