@@ -16,3 +16,9 @@
 10. In Beat Aim select your map and click `Other/Open Folder`
 11. Paste there the folder copied in 8.
 12. Play :)
+
+
+# Changing player path
+The path that player follows can be changed by modifing animation attached to PlayerCart object in scene. Rebuild your map (steps from 6) to apply changes.
+
+PlayerCart can also be exported as single object that way many Beat Aim Maps may use same Visual Map with different player paths. More info soon...
