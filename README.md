@@ -4,7 +4,7 @@
 
 0. Get Unity 2020.1.8 https://unity3d.com/get-unity/download
 1. Download and unzip this project (or git clone)
-![download](https://i.gyazo.com/9d16d764309a9f3a7df8df22ee16acea.png)
+![download](Docs~/help1.png)
 2. Open unzipped folder with Unity
 3. On top of Unity click `BeatAim/Create Map`
 4. Download(select only "models" and "textures" folders when importing): https://assetstore.unity.com/packages/3d/environments/fantasy/halloween-cemetery-set-19125
