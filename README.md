@@ -9,13 +9,14 @@
 3. On top of Unity click `BeatAim/Create Map`
 4. Download(select only "models" and "textures" folders when importing): https://assetstore.unity.com/packages/3d/environments/fantasy/halloween-cemetery-set-19125
 5. Download: https://assetstore.unity.com/packages/2d/textures-materials/floors/outdoor-ground-textures-12555
-6. In Project window in `Assets/Map/Halloween` right click on HalloweenCustom and click Build Map
-7. It may take some time to complete but don't worry it takes that long only once
-8. Right click on `HalloweenCustom` again and `Show In Explorer`
-9. Open `HalloweenCustomExported~` folder and copy `UnityData` folder
-10. In Beat Aim select your map and click `Other/Open Folder`
-11. Paste there the folder copied in 8.
-12. Play :)
+6. Click `Assets/Reimport All` in Unity
+7. In Project window in `Assets/Map/Halloween` right click on HalloweenCustom and click Build Map
+8. It may take some time to complete but don't worry it takes that long only once
+9. Right click on `HalloweenCustom` again and `Show In Explorer`
+10. Open `HalloweenCustomExported~` folder and copy `UnityData` folder
+11. In Beat Aim select your map and click `Other/Open Folder`
+12. Paste there the folder copied in 8.
+13. Play :)
 
 
 # Changing player path
